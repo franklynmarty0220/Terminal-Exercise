@@ -1,0 +1,24 @@
+1. The man command is the manual of a command you have selected, example man rm. To scroll you can use the arrow keys, enter bar, spacebar or your mouse/ trackpad. To get out of the man press q.
+
+
+2.-l A total sum for all the file sizes is output on a line before the long listing. -a: Include directory entries whose names begin with a dot (.).
+
+3. Option left/ right
+
+4.control + e
+
+5. Control + a
+
+6. Control + w
+
+7. Terminal is an application that gives us a command line interface (or CLI) to interact with the computer. The shell is the program which actually processes commands and returns output.
+
+8. Absolute, starting from the root
+
+9. Relative to where I am currently
+
+10. Flags can change and even enhance commands and are added using a - after the command. Flags I've used are -l, -r, and -a.
+
+11. Similar to -R: Attempt to remove the file hierarchy rooted in each file argument. -f: Attempt to remove the files without prompting for confirmation, regardless of the file's permissions.  
+
+
